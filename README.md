@@ -1,19 +1,165 @@
-## Hi there 👋
-# 💫 About Me:
-I'm a Cybersecurity Enthusiast with a strong interest in both Blue Team and Red Team operations. I enjoy understanding systems from an attacker’s perspective and then strengthening them through defensive strategies and secure design.<br><br>🔐 What I Do<br><br>🛡️ Blue Teaming<br><br>Incident response & log analysis<br><br>Threat detection and monitoring<br><br>Security hardening & risk assessment<br><br>Basic SOC workflows and defensive security practices<br><br>⚔️ Red Teaming<br><br>Vulnerability assessment & penetration testing<br><br>Web application security testing<br><br>Network and system exploitation fundamentals<br><br>OWASP Top 10 analysis<br><br>🧠 Skills & Interests<br><br>Cybersecurity fundamentals (CIA Triad, threat models, attack vectors)<br><br>Web security & network security<br><br>Ethical hacking & defensive security<br><br>Linux & basic scripting<br><br>Security tools (e.g., Nmap, Burp Suite, Wireshark, Metasploit – learning & practicing)<br><br>Understanding real-world cyber attacks and how to prevent them<br><br>🚀 Currently Learning<br><br>Advanced penetration testing techniques<br><br>Blue team detection strategies<br><br>SIEM concepts and log correlation<br><br>Malware analysis basics<br><br>Cloud security fundamentals<br><br>🎯 Goals<br><br>Build strong hands-on expertise in cybersecurity<br><br>Contribute to security research and open-source tools<br><br>Grow into a well-rounded security professional with experience i
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=HAMZA%20SHAUKAT&fontSize=46&fontColor=00ffe1&fontAlignY=38&animation=fadeIn&desc=Offensive%20Security%20Engineer%20%7C%20Red%20Teamer%20%7C%20SAST%20Researcher&descSize=18&descAlignY=58&descColor=7dffea" width="100%"/>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Hamza Shaukat) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shaukathamza291@gmail.com) 
+<a href="https://github.com/Hamza-Shaukat078">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=2600&pause=900&color=00FFE1&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=Breaking+things+to+build+them+back+stronger+%F0%9F%94%A5;Interprocedural+taint+analysis+%7C+Code+Property+Graphs;OWASP+ASVS+5.0+%7C+MITRE+ATT%26CK+%7C+CVSS+v3.1;CRTOM+%C2%B7+CLLMSP+certified+%7C+1st+Place+Comstech+CTF" alt="Typing SVG" />
+</a>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Hamza-Shaukat078&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Hamza-Shaukat078&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamza-Shaukat078&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://hamza-shaukat078.github.io/Hamza-s-Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-shaukat-7185792b7)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaukathamza291@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hamza-Shaukat078)
 
----
-[![](https://visitcount.itsvg.in/api?id=Hamza-Shaukat078&icon=0&color=0)](https://visitcount.itsvg.in)
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/blue.png" width="100%">
+
+## 🧬 `whoami`
+
+```yaml
+name:        Hamza Shaukat
+role:        Offensive Security Engineer
+education:   BS Cybersecurity — COMSATS University Islamabad (CGPA 3.49/4.00)
+focus:       Red Teaming · Vulnerability Research · SAST & Taint Analysis · Exploit Dev
+certs:       [CRTOM, CLLMSP, Google Cybersecurity Professional Certificate]
+ctf:         1st Place — Comstech CTF | 10th Place — PCC 24 National CTF
+mindset:     Attacker's perspective first, defender's rigor always
+status:      Targeting red-team / vuln-research / pentest roles
+```
+
+I'm a **Cybersecurity graduate** who thinks like an attacker and builds like an engineer. In a 6-week DevSecOps & penetration testing internship at **NTC**, I independently designed and shipped three full-stack security platforms, and on my own time I built **Vulcan** — a production-grade AI-powered SAST engine with interprocedural taint analysis and automated PoC generation.
+
+<br>
+
+## ⚡ Featured Builds
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 [Vulcan](https://github.com/Hamza-Shaukat078) — AI-Powered SAST Engine
+Final Year Project — full Code Property Graph pipeline (9 graph types) over Tree-sitter, interprocedural taint tracing across file/function boundaries, 13-model LLM fallback chain for classification + PoC generation, SARIF 2.1.0 export, CVSS v3.1 scoring. Validated against 82+ CWE-annotated CodeQL benchmarks.
+
+`Python` `Tree-sitter` `FastAPI` `LLM APIs` `WebSocket` `SARIF`
+
+</td>
+<td width="50%" valign="top">
+
+### 🛡️ ControlGate — OWASP ASVS 5.0 Compliance Engine
+NTC Internship — validates codebases against the full ASVS 5.0.0 standard (345 controls, 17 chapters), fusing 5 evidence sources into one verdict per control. Tree-sitter CPG + 88-rule static catalog + DAST engine (SSRF/IDOR/race/JWT-forgery) with OOB collaborator confirmation.
+
+`FastAPI` `async SQLAlchemy` `MongoDB` `WebSocket`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🦅 PageHawk — Web Recon & Defacement Threat-Intel
+NTC Internship — headless-browser crawler (Playwright, BFS + robots.txt compliant) scanning rendered DOM against a keyword/regex engine, Pakistan-focused defacement feed correlation, scan-over-scan diffing, SMTP/desktop alerting.
+
+`Python` `Flask` `Playwright` `SQLite`
+
+</td>
+<td width="50%" valign="top">
+
+### 📡 BaselineIQ — Network Hardening Auditor
+NTC Internship — device-agnostic CIS/vendor compliance scanner across 8 device types (Cisco, FortiGate, Juniper, Huawei, SOHO) via a pluggable rule engine with 190+ hardening rules, REST API, and a pytest-covered parser-to-checker pipeline.
+
+`Python` `FastAPI` `vanilla JS` `SQLite`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 👁️ WRAITH — API Security Scanner
+Full-stack OWASP API Top 10 scanner (IDOR, Broken Auth, JWT attacks, Rate Limiting) with live SSE finding streams and one-click PDF/JSON reports. Production-deployed.
+
+`Python` `SSE` `JWT`
+
+</td>
+<td width="50%" valign="top">
+
+### 🌀 VORTEX — SOC Threat Analyzer
+Browser-based SOC dashboard integrating VirusTotal (70+ engines), MITRE ATT&CK tagging, and STIX 2.1 export — deployed as a PWA.
+
+`JavaScript` `VirusTotal API` `STIX 2.1`
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## 🎯 Offensive Security Toolkit
+
+**Offensive:** ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white) ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-000000?style=flat-square&logo=nmap&logoColor=white) ![Frida](https://img.shields.io/badge/Frida-black?style=flat-square) ![MobSF](https://img.shields.io/badge/MobSF-green?style=flat-square) ![JADX](https://img.shields.io/badge/JADX-orange?style=flat-square) ![John the Ripper](https://img.shields.io/badge/John_the_Ripper-red?style=flat-square) ![CyberChef](https://img.shields.io/badge/CyberChef-8b4513?style=flat-square)
+
+**RE / Forensics:** ![Ghidra](https://img.shields.io/badge/Ghidra-9C1A22?style=flat-square) ![IDA Pro](https://img.shields.io/badge/IDA_Pro-4B0082?style=flat-square) ![Volatility](https://img.shields.io/badge/Volatility-2E8B57?style=flat-square) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white) ![Autopsy](https://img.shields.io/badge/Autopsy-slateblue?style=flat-square) ![FTK Imager](https://img.shields.io/badge/FTK_Imager-teal?style=flat-square)
+
+**Frameworks:** ![OWASP](https://img.shields.io/badge/OWASP_Top_10-000000?style=flat-square&logo=owasp&logoColor=white) ![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-D62E1F?style=flat-square) ![CVSS](https://img.shields.io/badge/CVSS_v3.1-orange?style=flat-square) ![CWE](https://img.shields.io/badge/CWE-darkred?style=flat-square) ![SARIF](https://img.shields.io/badge/SARIF_2.1.0-blue?style=flat-square) ![STIX](https://img.shields.io/badge/STIX_2.1-navy?style=flat-square)
+
+**Languages:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white) ![x86 Assembly](https://img.shields.io/badge/x86_Assembly-6E4C13?style=flat-square)
+
+**DevOps / OS:** ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+
+<br>
+
+## 🏆 Certifications & Wins
+
+![CRTOM](https://img.shields.io/badge/CRTOM-Certified_Red_Team_Ops_Management-black?style=for-the-badge)
+![CLLMSP](https://img.shields.io/badge/CLLMSP-Certified_LLM_Security_Professional-purple?style=for-the-badge)
+![Google](https://img.shields.io/badge/Google_Cybersecurity-Professional_Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![CTF](https://img.shields.io/badge/🥇_Comstech_CTF-1st_Place-gold?style=for-the-badge)
+![CTF2](https://img.shields.io/badge/PCC_24_National_CTF-10th_Place-silver?style=for-the-badge)
+
+<br>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Hamza-Shaukat078&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamza-Shaukat078&theme=tokyonight&hide_border=true" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamza-Shaukat078&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" height="165"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hamza-Shaukat078&theme=tokyo-night&hide_border=true&area=true" height="165"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Hamza-Shaukat078&theme=darkhub&no-frame=true&row=1&column=7&margin-w=8" width="100%"/>
+
+</div>
+
+<br>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hamza-Shaukat078/Hamza-Shaukat078/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hamza-Shaukat078/Hamza-Shaukat078/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Hamza-Shaukat078/Hamza-Shaukat078/output/github-contribution-grid-snake.svg">
+</picture>
+
+<sub>Generated automatically by <code>.github/workflows/snake.yml</code> — first run populates the <code>output</code> branch.</sub>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/blue.png" width="100%">
+
+<div align="center">
+
+### 🎯 Currently Hunting
+Red Teaming · Vulnerability Research · Penetration Testing roles
+
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-shaukat-7185792b7)
+[![Email](https://img.shields.io/badge/Say_Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaukathamza291@gmail.com)
+
+[![](https://visitcount.itsvg.in/api?id=Hamza-Shaukat078&icon=6&color=6)](https://visitcount.itsvg.in)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%"/>
+
+</div>
+</content>
