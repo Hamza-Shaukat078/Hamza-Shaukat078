@@ -37,6 +37,12 @@ status:      Targeting red-team / vuln-research / pentest roles
 
 I'm a **Cybersecurity graduate** who thinks like an attacker and builds like an engineer. In a 6-week DevSecOps & penetration testing internship at **NTC**, I independently designed and shipped three full-stack security platforms, and on my own time I built **Vulcan** — a production-grade AI-powered SAST engine with interprocedural taint analysis and automated PoC generation.
 
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=15&duration=900&pause=4000&color=00FFE1&center=true&vCenter=true&multiline=true&repeat=true&width=760&height=160&lines=%5B+++OK+++%5D+Loading+offensive_security_engineer.ko;%5B+++OK+++%5D+Mounting+%2Fred-team+...(rw);%5B+++OK+++%5D+Starting+recon.service;%5B++WARN+++%5D+3+unpatched+CVEs+detected+on+target;%5B+++OK+++%5D+Escalating+privileges...+success;%5B++DONE+++%5D+System+ready.+Awaiting+target." alt="Boot Sequence" />
+
+</div>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:00ffe1,100:0f2027&height=18&width=1200" width="100%">
 
 ## ⚡ `// featured_builds`
@@ -157,7 +163,19 @@ Browser-based SOC dashboard integrating VirusTotal (70+ engines), MITRE ATT&CK t
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:00ffe1,100:0f2027&height=28&width=1200" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:00ffe1,100:0f2027&height=18&width=1200" width="100%">
+
+## 🧊 `// contribution_graph_3d`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Hamza-Shaukat078/Hamza-Shaukat078/profile-3d-contrib/profile-night-rainbow.svg" width="100%">
+
+<sub>Generated automatically by <code>.github/workflows/profile-3d-contrib.yml</code> — first run populates the <code>profile-3d-contrib</code> branch.</sub>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,100:0f2027&height=100&text=ACCESS%20GRANTED&fontColor=39FF14&fontSize=40&animation=twinkling" width="100%">
 
 <div align="center">
 
