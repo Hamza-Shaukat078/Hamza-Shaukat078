@@ -3,8 +3,11 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=HAMZA%20SHAUKAT&fontSize=46&fontColor=00ffe1&fontAlignY=38&animation=fadeIn&desc=Offensive%20Security%20Engineer%20%7C%20Red%20Teamer%20%7C%20SAST%20Researcher&descSize=18&descAlignY=58&descColor=7dffea" width="100%"/>
 
 <a href="https://github.com/Hamza-Shaukat078">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=2600&pause=900&color=00FFE1&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=Breaking+things+to+build+them+back+stronger+%F0%9F%94%A5;Interprocedural+taint+analysis+%7C+Code+Property+Graphs;OWASP+ASVS+5.0+%7C+MITRE+ATT%26CK+%7C+CVSS+v3.1;CRTOM+%C2%B7+CLLMSP+certified+%7C+1st+Place+Comstech+CTF" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=2400&pause=1000&color=00FFE1&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=root%40hamza%3A~%23+whoami;%3E+Offensive+Security+Engineer+%E2%80%94+breaking+things+on+purpose;sudo+rm+-rf+%2Fassumptions;Red+Team+mindset.+Blue+Team+discipline.;0-days+are+just+bugs+nobody+reported+yet;Finding+the+exploit+before+the+attacker+does" alt="Typing SVG" />
 </a>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=16&duration=1800&pause=600&color=39FF14&center=true&vCenter=true&multiline=true&repeat=true&width=820&height=140&lines=%24+nmap+-sV+-T4+-p-+target.io;%24+sqlmap+-u+%22https%3A%2F%2Ftarget.io%2Fapi%3Fid%3D1%22+--batch;%24+msfconsole+-q+-x+%22use+exploit%2Fmulti%2Fhandler%22;%24+python3+exploit.py+--target+10.10.10.5+--shell;%5B%2B%5D+reverse+shell+established+as+www-data;%5B%2B%5D+privilege+escalation...+root+obtained" alt="Terminal SVG" />
+
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://hamza-shaukat078.github.io/Hamza-s-Portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-shaukat-7185792b7)
@@ -17,7 +20,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:00ffe1,100:0f2027&height=4&width=1000" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:00ffe1,100:0f2027&height=28&width=1200" width="100%">
 
 ## 🧬 `// whoami`
 
@@ -34,7 +37,7 @@ status:      Targeting red-team / vuln-research / pentest roles
 
 I'm a **Cybersecurity graduate** who thinks like an attacker and builds like an engineer. In a 6-week DevSecOps & penetration testing internship at **NTC**, I independently designed and shipped three full-stack security platforms, and on my own time I built **Vulcan** — a production-grade AI-powered SAST engine with interprocedural taint analysis and automated PoC generation.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:00ffe1,100:0f2027&height=2&width=1000" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:00ffe1,100:0f2027&height=18&width=1200" width="100%">
 
 ## ⚡ `// featured_builds`
 
@@ -95,7 +98,7 @@ Browser-based SOC dashboard integrating VirusTotal (70+ engines), MITRE ATT&CK t
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:00ffe1,100:0f2027&height=2&width=1000" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:00ffe1,100:0f2027&height=18&width=1200" width="100%">
 
 ## 🎯 `// offensive_toolkit`
 
@@ -109,7 +112,7 @@ Browser-based SOC dashboard integrating VirusTotal (70+ engines), MITRE ATT&CK t
 
 **DevOps / OS:** ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:00ffe1,100:0f2027&height=2&width=1000" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:00ffe1,100:0f2027&height=18&width=1200" width="100%">
 
 ## 🏆 `// certifications_and_wins`
 
@@ -119,7 +122,7 @@ Browser-based SOC dashboard integrating VirusTotal (70+ engines), MITRE ATT&CK t
 ![CTF](https://img.shields.io/badge/🥇_Comstech_CTF-1st_Place-gold?style=for-the-badge)
 ![CTF2](https://img.shields.io/badge/PCC_24_National_CTF-10th_Place-silver?style=for-the-badge)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:00ffe1,100:0f2027&height=2&width=1000" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:00ffe1,100:0f2027&height=18&width=1200" width="100%">
 
 ## 📊 `// github_analytics`
 
@@ -133,9 +136,12 @@ Browser-based SOC dashboard integrating VirusTotal (70+ engines), MITRE ATT&CK t
 
 <img src="https://github-profile-trophy.vercel.app/?username=Hamza-Shaukat078&theme=darkhub&no-frame=true&row=1&column=7&margin-w=8" width="100%"/>
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details.svg?username=Hamza-Shaukat078&theme=github_dark" height="140"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time.svg?username=Hamza-Shaukat078&theme=github_dark&utcOffset=5" height="140"/>
+
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:00ffe1,100:0f2027&height=2&width=1000" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:00ffe1,100:0f2027&height=18&width=1200" width="100%">
 
 ## 🐍 `// contribution_snake`
 
@@ -151,7 +157,7 @@ Browser-based SOC dashboard integrating VirusTotal (70+ engines), MITRE ATT&CK t
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:00ffe1,100:0f2027&height=4&width=1000" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:00ffe1,100:0f2027&height=28&width=1200" width="100%">
 
 <div align="center">
 
