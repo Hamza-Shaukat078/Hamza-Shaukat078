@@ -11,11 +11,15 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaukathamza291@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hamza-Shaukat078)
 
+![Status](https://img.shields.io/badge/SYSTEM-ONLINE-00ffe1?style=flat-square&labelColor=0a0a0a)
+![Uptime](https://img.shields.io/badge/UPTIME-99.9%25-00ffe1?style=flat-square&labelColor=0a0a0a)
+![Mode](https://img.shields.io/badge/MODE-OFFENSIVE-ff004f?style=flat-square&labelColor=0a0a0a)
+
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/blue.png" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:00ffe1,100:0f2027&height=4&width=1000" width="100%">
 
-## 🧬 `whoami`
+## 🧬 `// whoami`
 
 ```yaml
 name:        Hamza Shaukat
@@ -30,9 +34,9 @@ status:      Targeting red-team / vuln-research / pentest roles
 
 I'm a **Cybersecurity graduate** who thinks like an attacker and builds like an engineer. In a 6-week DevSecOps & penetration testing internship at **NTC**, I independently designed and shipped three full-stack security platforms, and on my own time I built **Vulcan** — a production-grade AI-powered SAST engine with interprocedural taint analysis and automated PoC generation.
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:00ffe1,100:0f2027&height=2&width=1000" width="100%">
 
-## ⚡ Featured Builds
+## ⚡ `// featured_builds`
 
 <table>
 <tr>
@@ -47,7 +51,7 @@ Final Year Project — full Code Property Graph pipeline (9 graph types) over Tr
 <td width="50%" valign="top">
 
 ### 🛡️ ControlGate — OWASP ASVS 5.0 Compliance Engine
-NTC Internship — validates codebases against the full ASVS 5.0.0 standard (345 controls, 17 chapters), fusing 5 evidence sources into one verdict per control. Tree-sitter CPG + 88-rule static catalog + DAST engine (SSRF/IDOR/race/JWT-forgery) with OOB collaborator confirmation.
+Validates codebases against the full ASVS 5.0.0 standard (345 controls, 17 chapters), fusing 5 evidence sources into one verdict per control. Tree-sitter CPG + 88-rule static catalog + DAST engine (SSRF/IDOR/race/JWT-forgery) with OOB collaborator confirmation.
 
 `FastAPI` `async SQLAlchemy` `MongoDB` `WebSocket`
 
@@ -57,7 +61,7 @@ NTC Internship — validates codebases against the full ASVS 5.0.0 standard (345
 <td width="50%" valign="top">
 
 ### 🦅 PageHawk — Web Recon & Defacement Threat-Intel
-NTC Internship — headless-browser crawler (Playwright, BFS + robots.txt compliant) scanning rendered DOM against a keyword/regex engine, Pakistan-focused defacement feed correlation, scan-over-scan diffing, SMTP/desktop alerting.
+Headless-browser crawler (Playwright, BFS + robots.txt compliant) scanning rendered DOM against a keyword/regex engine, Pakistan-focused defacement feed correlation, scan-over-scan diffing, SMTP/desktop alerting.
 
 `Python` `Flask` `Playwright` `SQLite`
 
@@ -65,7 +69,7 @@ NTC Internship — headless-browser crawler (Playwright, BFS + robots.txt compli
 <td width="50%" valign="top">
 
 ### 📡 BaselineIQ — Network Hardening Auditor
-NTC Internship — device-agnostic CIS/vendor compliance scanner across 8 device types (Cisco, FortiGate, Juniper, Huawei, SOHO) via a pluggable rule engine with 190+ hardening rules, REST API, and a pytest-covered parser-to-checker pipeline.
+Device-agnostic CIS/vendor compliance scanner across 8 device types (Cisco, FortiGate, Juniper, Huawei, SOHO) via a pluggable rule engine with 190+ hardening rules, REST API, and a pytest-covered parser-to-checker pipeline.
 
 `Python` `FastAPI` `vanilla JS` `SQLite`
 
@@ -91,9 +95,9 @@ Browser-based SOC dashboard integrating VirusTotal (70+ engines), MITRE ATT&CK t
 </tr>
 </table>
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:00ffe1,100:0f2027&height=2&width=1000" width="100%">
 
-## 🎯 Offensive Security Toolkit
+## 🎯 `// offensive_toolkit`
 
 **Offensive:** ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white) ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-000000?style=flat-square&logo=nmap&logoColor=white) ![Frida](https://img.shields.io/badge/Frida-black?style=flat-square) ![MobSF](https://img.shields.io/badge/MobSF-green?style=flat-square) ![JADX](https://img.shields.io/badge/JADX-orange?style=flat-square) ![John the Ripper](https://img.shields.io/badge/John_the_Ripper-red?style=flat-square) ![CyberChef](https://img.shields.io/badge/CyberChef-8b4513?style=flat-square)
 
@@ -105,9 +109,9 @@ Browser-based SOC dashboard integrating VirusTotal (70+ engines), MITRE ATT&CK t
 
 **DevOps / OS:** ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:00ffe1,100:0f2027&height=2&width=1000" width="100%">
 
-## 🏆 Certifications & Wins
+## 🏆 `// certifications_and_wins`
 
 ![CRTOM](https://img.shields.io/badge/CRTOM-Certified_Red_Team_Ops_Management-black?style=for-the-badge)
 ![CLLMSP](https://img.shields.io/badge/CLLMSP-Certified_LLM_Security_Professional-purple?style=for-the-badge)
@@ -115,9 +119,9 @@ Browser-based SOC dashboard integrating VirusTotal (70+ engines), MITRE ATT&CK t
 ![CTF](https://img.shields.io/badge/🥇_Comstech_CTF-1st_Place-gold?style=for-the-badge)
 ![CTF2](https://img.shields.io/badge/PCC_24_National_CTF-10th_Place-silver?style=for-the-badge)
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:00ffe1,100:0f2027&height=2&width=1000" width="100%">
 
-## 📊 GitHub Analytics
+## 📊 `// github_analytics`
 
 <div align="center">
 
@@ -131,9 +135,9 @@ Browser-based SOC dashboard integrating VirusTotal (70+ engines), MITRE ATT&CK t
 
 </div>
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:00ffe1,100:0f2027&height=2&width=1000" width="100%">
 
-## 🐍 Contribution Snake
+## 🐍 `// contribution_snake`
 
 <div align="center">
 
@@ -147,11 +151,11 @@ Browser-based SOC dashboard integrating VirusTotal (70+ engines), MITRE ATT&CK t
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/blue.png" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:00ffe1,100:0f2027&height=4&width=1000" width="100%">
 
 <div align="center">
 
-### 🎯 Currently Hunting
+### 🎯 `// currently_hunting`
 Red Teaming · Vulnerability Research · Penetration Testing roles
 
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-shaukat-7185792b7)
