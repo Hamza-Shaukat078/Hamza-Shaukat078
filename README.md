@@ -169,9 +169,9 @@ Browser-based SOC dashboard integrating VirusTotal (70+ engines), MITRE ATT&CK t
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Hamza-Shaukat078/Hamza-Shaukat078/profile-3d-contrib/profile-night-rainbow.svg" width="100%">
+<img src="https://raw.githubusercontent.com/Hamza-Shaukat078/Hamza-Shaukat078/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%">
 
-<sub>Generated automatically by <code>.github/workflows/profile-3d-contrib.yml</code> — first run populates the <code>profile-3d-contrib</code> branch.</sub>
+<sub>Generated automatically by <code>.github/workflows/profile-3d-contrib.yml</code> — commits into <code>profile-3d-contrib/</code> on this branch.</sub>
 
 </div>
 
